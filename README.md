@@ -7,7 +7,7 @@
 ```python
 print("Kodluyoruz")
 ```
-----------------------------------
+-----------------------------------
 ```javascript
 console.log("Kodluyoruz")
 
